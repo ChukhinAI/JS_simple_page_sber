@@ -4,11 +4,9 @@
     <list default="true" id="caf651f4-8832-4cfb-afc7-ca13ffd35830" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/Services/tmdb-api.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/src/Components/Movies/Movies.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Movies/Movies.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Movies/Movies.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Movies/Movies.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-=======
->>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +68,17 @@
       <workItem from="1613470777367" duration="1329000" />
       <workItem from="1613500407624" duration="1585000" />
       <workItem from="1613550537295" duration="13430000" />
+      <workItem from="1613582198842" duration="43000" />
+      <workItem from="1613582446712" duration="1914000" />
+      <workItem from="1613584402199" duration="364000" />
+      <workItem from="1613725245845" duration="7656000" />
+      <workItem from="1613816624827" duration="568000" />
+      <workItem from="1613836677371" duration="596000" />
+      <workItem from="1613986504617" duration="2542000" />
+      <workItem from="1614095667567" duration="93000" />
+      <workItem from="1614095860521" duration="4000" />
+      <workItem from="1614095882177" duration="1357000" />
+      <workItem from="1614161899151" duration="1528000" />
     </task>
     <servers />
   </component>
