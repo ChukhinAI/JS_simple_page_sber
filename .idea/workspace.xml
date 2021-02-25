@@ -4,6 +4,11 @@
     <list default="true" id="caf651f4-8832-4cfb-afc7-ca13ffd35830" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Movies/Movies.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Movies/Movies.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Movies/Movies.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Movies/Movies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Movies/no-poster-available.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Movies/no-poster-available.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Movies/Movies.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Movies/Movies.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +76,7 @@
       <workItem from="1613582446712" duration="1914000" />
       <workItem from="1613584402199" duration="364000" />
       <workItem from="1613725245845" duration="7656000" />
+      <workItem from="1614265696204" duration="1803000" />
       <workItem from="1613816624827" duration="568000" />
       <workItem from="1613836677371" duration="596000" />
       <workItem from="1613986504617" duration="2542000" />

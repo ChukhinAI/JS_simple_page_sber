@@ -42,31 +42,34 @@ export default class Movies extends React.Component{
         const elements = this.state.movies.map(({title,posterPath,releaseDate, overview,id}) => {
             const pathToImage = posterPath ? "https://image.tmdb.org/t/p/w500" + posterPath : noPosterAvailable;
             return (
-                <li className="list-movies-item" key={id}>
-                    <div className="movie-item d-flex-row justify-content-between">
-                        <div className="poster">
-                            <img src={pathToImage} alt=""/>
-                        </div>
-                        <div className="title">
-                            {title}
-                        </div>
-                        <div className="release-date">
-                            {releaseDate}
-                        </div>
-                        <div className="overview d-flex-row">
-                            {overview}
+                <div className="col-lg-4 col-md-6 movies-item-wrap">
+                    <div className="list-movies-item" key={id}>
+                        <div className="movie-item d-flex-row justify-content-between">
+                            <div className="poster">
+                                <img src={pathToImage} alt=""/>
+                            </div>
+                            <div className="title">
+                                {title}
+                            </div>
+                            <div className="release-date">
+                                {releaseDate}
+                            </div>
+                            <div className="overview d-flex-row">
+                                {overview}
+                            </div>
                         </div>
                     </div>
-                </li>
+                </div>
+
             );
         })
 
         return(
             <div className="movies">
                 <h2>Список фильмов</h2>
-                <ul className="list-movies d-flex-row flex-wrap">
+                <div className="row">
                     {elements}
-                </ul>
+                </div>
             </div>
         );
     }
