@@ -9,33 +9,38 @@ h2{
 .list-movies-item{
     box-shadow: 2px 1px 8px 5px grey;
     display: flex;
-    /*width: 29.99999%;*/
-    min-width: 290px;
-    min-height: 256px;
-    max-width: 390px;
-    max-height: 800px;
     border: solid 2px;
     height: 100%;
     border-radius: 15px;
     padding: 10px;
     margin: 15px;
-    display: flex;
-    flex-direction: column;
+    /*
+    min-width: 290px;
+    min-height: 256px;
+    max-width: 390px;
+    max-height: 800px;
+
+     */
 }
 
 .list-movies-item img {
     border-radius: 15px;
     width: 100%;
 }
+
 .movies-item-wrap {
     padding: 15px 0;
+    /*
+    display: flex;
+    flex-direction: column;
+
     min-width: 180px;
     min-height: 250px;
     max-width: 360px;
     max-height: 540px;
-    display: flex;
-    flex-direction: column;
+     */
 }
+
 .list-movies-item .title {
     font-weight: bold;
     font-size: 30px;

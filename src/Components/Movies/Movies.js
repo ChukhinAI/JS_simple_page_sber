@@ -74,3 +74,4 @@ export default class Movies extends React.Component{
         );
     }
 }
+
